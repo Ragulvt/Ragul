@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Dynamic Price Prediction for E-Commerce Products Built with XGBoost and real-time dashboards to assist businesses in pricing strategy.**
 
-- 📝 I regularly write articles on [(Planning to start soon!)]((Planning to start soon!))
+- 📝 I regularly write articles on [(Planning to start soon!)]
 
 - 💬 Ask me about **React, Vue, GSAP, Python, Scikit-learn, Streamlit, Data Science**
 
